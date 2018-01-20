@@ -195,13 +195,13 @@ body {
 // ------------------------------------
 
 body {
+  font-family: 'FiraSans Regular';
   font-family: 'FiraSans Bold';
   font-family: 'FiraSans Bold Italic';
   font-family: 'FiraSans Italic';
   font-family: 'FiraSans Light Italic';
   font-family: 'FiraSans Medium';
   font-family: 'FiraSans Medium Italic';
-  font-family: 'FiraSans Regular';
 }
 
 @font-face {
@@ -256,6 +256,94 @@ body {
 @font-face {
   font-family: 'FiraSans Regular';
   src: url('FiraSans/firasans-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+// ------------------------------------
+// Lato
+// ------------------------------------
+
+body {
+  font-family: 'Lato Regular';
+  font-family: 'Lato Italic';
+  font-family: 'Lato Bold';
+  font-family: 'Lato BoldItalic';
+  font-family: 'Lato Black';
+  font-family: 'Lato BlackItalic';
+  font-family: 'Lato Light';
+  font-family: 'Lato Light Italic';
+  font-family: 'Lato Hairline';
+  font-family: 'Lato Hairline Italic';
+}
+
+@font-face {
+  font-family: 'Lato Bold';
+  src: local('Lato Bold'), local('Lato-Bold'), url('Lato/Lato-Bold.woff2') format('woff2'), url('Lato/Lato-Bold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Lato Light Italic';
+  src: local('Lato-LightItalic'), url('Lato/Lato-LightItalic.woff2') format('woff2'), url('Lato/Lato-LightItalic.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Lato Hairline';
+  src: local('Lato-Hairline'), url('Lato/Lato-Hairline.woff2') format('woff2'), url('Lato/Lato-Hairline.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Lato Light';
+  src: local('Lato-Light'), url('Lato/Lato-Light.woff2') format('woff2'), url('Lato/Lato-Light.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Lato Black';
+  src: local('Lato Black'), local('Lato-Black'), url('Lato/Lato-Black.woff2') format('woff2'), url('Lato/Lato-Black.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Lato Hairline Italic';
+  src: local('Lato-HairlineItalic'), url('Lato/Lato-HairlineItalic.woff2') format('woff2'), url('Lato/Lato-HairlineItalic.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Lato Regular';
+  src: local('Lato Regular'), local('Lato-Regular'), url('Lato/Lato-Regular.woff2') format('woff2'), url('Lato/Lato-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Lato Italic';
+  src: local('Lato Italic'), local('Lato-Italic'), url('Lato/Lato-Italic.woff2') format('woff2'), url('Lato/Lato-Italic.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Lato BoldItalic';
+  src: local('Lato Bold Italic'), local('Lato-BoldItalic'), url('Lato/Lato-BoldItalic.woff2') format('woff2'), url('Lato/Lato-BoldItalic.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Lato BlackItalic';
+  src: local('Lato Black Italic'), local('Lato-BlackItalic'), url('Lato/Lato-BlackItalic.woff2') format('woff2'), url('Lato/Lato-BlackItalic.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
