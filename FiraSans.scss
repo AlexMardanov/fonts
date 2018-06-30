@@ -1,0 +1,69 @@
+// ------------------------------------
+// FiraSans
+// ------------------------------------
+
+body {
+    font-family: 'FiraSans Regular';
+    font-family: 'FiraSans Bold';
+    font-family: 'FiraSans Bold Italic';
+    font-family: 'FiraSans Italic';
+    font-family: 'FiraSans Light Italic';
+    font-family: 'FiraSans Medium';
+    font-family: 'FiraSans Medium Italic';
+}
+
+@font-face {
+    font-family: 'FiraSans Bold';
+    src: url('./FiraSans/firasans-bold-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FiraSans Bold Italic';
+    src: url('./FiraSans/firasans-bolditalic-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'FiraSans Italic';
+    src: url('./FiraSans/firasans-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'FiraSans Light';
+    src: url('./FiraSans/firasans-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FiraSans Light Italic';
+    src: url('./FiraSans/firasans-lightitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'FiraSans Medium';
+    src: url('./FiraSans/firasans-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FiraSans Medium Italic';
+    src: url('./FiraSans/firasans-mediumitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'FiraSans Regular';
+    src: url('./FiraSans/firasans-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
